@@ -28,7 +28,7 @@ jobs:
       - name: 📂 Sync files to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
-          server: ftp.propify.mx
+          server: ftp.helou.app
           username: admin@helou.app
           password: ${{ secrets.password }}
           local-dir: ./
