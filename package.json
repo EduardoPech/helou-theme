@@ -1,5 +1,14 @@
 {
-  "name": "sage",
+  "name": "helou-sage",
+  "version": "1.0.0",
+  "description": "Helou Sage Theme",
+  "author": "Helou",
+  "license": "MIT",
+  "homepage": "https://helou.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helou-app/helou-sage.git"
+  },
   "private": true,
   "engines": {
     "node": ">=20.0.0"
