@@ -47,7 +47,6 @@ jobs:
             **/package.json
             **/package-lock.json
             **/vite.config.js
-            **/resources/**
             **/.gitignore
             **/.editorconfig
             **/.eslintrc*
