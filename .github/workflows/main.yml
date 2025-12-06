@@ -42,7 +42,6 @@ jobs:
             **/.idea/**
             **/*.md
             **/.env*
-            **/composer.json
             **/composer.lock
             **/package.json
             **/package-lock.json
